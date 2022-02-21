@@ -28,5 +28,4 @@ SO THAT I can organize and plan my business
 
 ## SEE VIDEO LINK BELOW FOR MORE ILLUSTRATION
 
-<a href="https://youtu.be/jhAqHOe41zU"></a>
-
+<a href="https://youtu.be/jhAqHOe41zU">here</a>
