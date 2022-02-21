@@ -26,5 +26,7 @@ SO THAT I can organize and plan my business
 * WHEN I choose to update an employee role
 * THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-# SEE VIDEO LINK BELOW FOR MORE ILLUSTRATION
+## SEE VIDEO LINK BELOW FOR MORE ILLUSTRATION
+
 <a href="https://youtu.be/jhAqHOe41zU"></a>
+
